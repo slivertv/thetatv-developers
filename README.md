@@ -22,6 +22,7 @@ Developers can create applications for Theta.tv streamers. Applications such as 
 ### Theta.tv Application & API Docs
 * [https://github.com/slivertv/thetatv-api-docs](https://github.com/slivertv/thetatv-api-docs)
 
+-----
 
 ## Leverage Theta Network for your own content
 Leverage the Theta Network & Blockchain to lower CDN costs and increase viewer engagement. Integration is quick and simple, and works with most popular video players.
