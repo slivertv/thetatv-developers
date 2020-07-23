@@ -26,8 +26,8 @@ Developers can create applications for Theta.tv streamers. Applications such as 
 ## Leverage Theta Network for your own content
 Leverage the Theta Network & Blockchain to lower CDN costs and increase viewer engagement. Integration is quick and simple, and works with most popular video players.
 
-***Client Integration
+### Client Integration
 * https://github.com/thetatoken/videojs-theta-plugin-example/blob/master/README.md
 
-***Backend Integration
+### Backend Integration
 * https://documenter.getpostman.com/view/4160995/SVtR2qo5?version=latest
