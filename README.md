@@ -5,7 +5,7 @@
 
 ### Embed Theta.tv into your Applications
 
-Increase engagement and session lengths by adding Theta.tv content directly into your own apps. Optionally you can integrate your user login system with our oAuth 2.0 API’s
+Increase engagement and session lengths by adding THETA.tv content directly into your own apps. Additionally, you can integrate your user login system with our oAuth 2.0 API’s for a complete experience.
   
 **Documentation & SDK**
 * Android: [https://github.com/slivertv/thetatv-android-embed-lib](https://github.com/slivertv/thetatv-android-embed-lib)
@@ -22,7 +22,7 @@ You can integrate your own login system seamlessly with the embed. This preserve
 -----
 
 
-### Create Applications for Theta.tv
+### Create Streamer Apps for Theta.tv
 Developers can create applications for Theta.tv streamers. Applications such as chat bots, stream overlays, or chat mini-games are all possible. You can also create external applications such as dashboard, or management tools to enhance their streaming experience.
 
 **Theta.tv Application & API Docs**
