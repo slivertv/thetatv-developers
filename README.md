@@ -14,8 +14,6 @@ Add Theta.tv esports content to your own apps to increase engagement and view ti
 ### Integrating Logins (oAuth 2.0)
 * [https://github.com/slivertv/thetatv-api-docs](https://github.com/slivertv/thetatv-api-docs)
 
-  
-
 -----
 
 ## Create Applications for Theta.tv
@@ -23,3 +21,13 @@ Developers can create applications for Theta.tv streamers. Applications such as 
 
 ### Theta.tv Application & API Docs
 * [https://github.com/slivertv/thetatv-api-docs](https://github.com/slivertv/thetatv-api-docs)
+
+
+## Leverage Theta Network for your own content
+Leverage the Theta Network & Blockchain to lower CDN costs and increase viewer engagement. Integration is quick and simple, and works with most popular video players.
+
+***Client Integration
+* https://github.com/thetatoken/videojs-theta-plugin-example/blob/master/README.md
+
+***Backend Integration
+* https://documenter.getpostman.com/view/4160995/SVtR2qo5?version=latest
