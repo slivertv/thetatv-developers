@@ -5,7 +5,7 @@
 
 ## Embed Theta.tv into your Applications
 
-Add Theta.tv esports content to increase view times and engagement with your own audience. You can also seamlessly integrate your user login system by using our oAuth 2.0 API’s
+Add Theta.tv esports content to your own apps to increase engagement and view times. You can also seamlessly integrate your user login system by using our oAuth 2.0 API’s
   
 ### Documentation & SDK
 * Android: [https://github.com/slivertv/thetatv-android-embed-lib](https://github.com/slivertv/thetatv-android-embed-lib)
