@@ -33,7 +33,7 @@ Developers can create applications for Theta.tv streamers. Applications such as 
 
 
 ### Leverage Theta Network for your own content
-Leverage the Theta Network & Blockchain to lower CDN costs and increase viewer engagement for any content. Integration is quick and simple, and works with most popular video players. The resulting TFuel they earn can be used any way you like, such as converting into your own in-app virtual currency. 
+Leverage the Theta Network & Blockchain to lower CDN costs and increase viewer engagement for any content. Integration is quick and simple, and works with most popular video players. The resulting TFuel they earn can be used any way you like, such as converting into your own in-app virtual currency, or spend it on merchandise. 
 
 **More About the Theta Network**
 * https://www.thetatoken.org
