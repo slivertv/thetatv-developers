@@ -15,8 +15,8 @@ Increase engagement and session lengths by adding THETA.tv content directly into
 
 **Integrating Logins (oAuth 2.0)**
 
-You can integrate your own login system seamlessly with the embed. This preserves the username when they chat, and makes the experience feel more native within your app. 
-* [https://github.com/slivertv/thetatv-api-docs](https://github.com/slivertv/thetatv-api-docs)
+You can integrate your own login system seamlessly with the embed. This preserves the username when they chat, and makes the experience feel more native within your app. Please refer to the 'External Application' and oAuth 2.0 sections of this documentation: 
+* [https://github.com/slivertv/thetatv-app-docs](https://github.com/slivertv/thetatv-app-docs)
 
 
 -----
