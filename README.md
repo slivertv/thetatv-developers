@@ -29,7 +29,7 @@ Developers can create applications for Theta.tv streamers. Applications such as 
 * [https://github.com/slivertv/thetatv-app-docs](https://github.com/slivertv/thetatv-app-docs)
 
 **THETA.tv API Reference**
-https://documenter.getpostman.com/view/945111/SW7UapnJ
+* https://documenter.getpostman.com/view/945111/SW7UapnJ
 
 
 -----
