@@ -3,7 +3,7 @@
   
   
 
-### Embed THETA.tv into your Applications
+### Embed THETA.tv content into your Applications
 
 Increase engagement and session lengths by adding THETA.tv content directly into your own apps. Additionally, you can integrate your user login system with our oAuth 2.0 API’s for a complete experience.
   
