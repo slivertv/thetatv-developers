@@ -26,7 +26,7 @@ You can integrate your own login system seamlessly with the embed. This preserve
 Developers can create applications for Theta.tv streamers. Applications such as chat bots, stream overlays, or chat mini-games are all possible. You can also create external applications such as streamer dashboards or management tools to assist streamers in running their channels.
 
 **THETA.tv App Docs**
-* [https://github.com/slivertv/thetatv-api-docs](https://github.com/slivertv/thetatv-api-docs)
+* [https://github.com/slivertv/thetatv-app-docs](https://github.com/slivertv/thetatv-app-docs)
 
 
 -----
